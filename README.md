@@ -31,6 +31,13 @@ ordered list
 
 **_Mark_**
 
+Creating a link
 [Pomag Apparel website]( https://wa.me/<08020794326>)
 
+# EDIBLE GOODS SALES REPORT
 
+| SNACK         | DRINKS       | FOOD          |
+|---------------|--------------|---------------|
+| Cakes         | Fanta        | Noodles       |
+| Samosa        | Coke         | Fried Rice    |
+| Meat Pie      | Sprit        | Yam           |
