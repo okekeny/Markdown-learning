@@ -4,7 +4,10 @@ Learning how to use markdown
 # tutorial
 ## heading 2
 
+Bold
 **Tutorial**
+
+Italize
 -Tutorial_
 
 Un-ordered list
@@ -25,3 +28,7 @@ ordered list
 2. Two
 3. Three
 4. Four
+
+**_Mark_**
+
+
