@@ -31,6 +31,6 @@ ordered list
 
 **_Mark_**
 
-[Pomag Apparel](www.WhatsApp.com)
+[Pomag Apparel]( https://wa.me/<08020794326>)
 
 
