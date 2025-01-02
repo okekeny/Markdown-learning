@@ -45,6 +45,6 @@ Creating a link
 
 
 
-- [ ] Favourite Food
-- [ ] Favourite snack
+- [*] Favourite Food
+- [*] Favourite snack
 - [ ] Favourite drink
