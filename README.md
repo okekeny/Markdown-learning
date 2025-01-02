@@ -41,3 +41,10 @@ Creating a link
 | Cakes         | Fanta        | Noodles       |
 | Samosa        | Coke         | Fried Rice    |
 | Meat Pie      | Sprit        | Yam           |
+
+
+
+
+- [ ] Favourite Food
+- [ ] Favourite snack
+- [ ] Favourite drink
